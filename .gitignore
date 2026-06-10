@@ -29,6 +29,9 @@ dataset/
 features/
 *.pkl
 
+# Local thesis document
+软件学院-软件工程-0223627-余浩-基于深度学习的手语识别系统设计与实现.docx
+
 # Build artifacts
 build/
 dist/
