@@ -1,0 +1,39 @@
+# Python cache and tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE/editor files
+.idea/
+.vscode/
+
+# Local runtime data
+app_storage/
+logs/
+*.log
+runs/
+checkpoints/
+
+# Large or generated data
+dataset/
+features/
+*.pkl
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
